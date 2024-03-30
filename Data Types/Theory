@@ -1,0 +1,13 @@
+//Premitive/built in data types : Integer, Float, Character, Boolean
+//Derived data types: Function, Array, Pointer, Reference
+//User Defined: Class, Structure, Union, Enum
+
+//Size of integer is 4 bytes or 32 bits
+//Size of character is 1 bytes
+//Size of  float is 4 bytes.
+//Size of double  is 8 bytes.
+//Size of long int is 8 bytes.
+//Size of short int is 2 bytes.
+
+//MSB(Most  Significant Bit) in integer memory is used to tell  the sign of a number (Positive / Neg
+
